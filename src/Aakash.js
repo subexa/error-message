@@ -15,8 +15,8 @@ class Aakash extends Component {
 					ajfsajflkasj kjfalskjfajf fkjaskjfa sf j.
 				</div>
 				<div className="error-buttons">
-					<button>nope</button>
-					<button>ok</button>
+					<button className="nope">nope</button>
+					<button className="ok">ok</button>
 				</div>
 			</div>
 		)
